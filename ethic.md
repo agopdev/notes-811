@@ -1,3 +1,80 @@
+# 2025-03-31
+Principios básicos de la Ética
+
+Son valores irrenunciables que sirven como guías rectoras
+Surgen de construcciones racionales históricas
+
+Son 4:
+
+Principio de justicia
+Repartición equitativa de derechos y obligaciones
+Concepción aristotélica
+
+Justicia social (No se estudiará)
+Igualdad de oportunidades entre los diferentes sectores
+Guía las decisiones legislativas y políticas
+
+Justicia (Rawls) (No se estudiará)
+Todos los mismos DHs
+Analizar si las letes son justas o autoridad es justa
+
+Justicia como principio
+Tomar decisiones con base en reparto equitativo
+Analizar
+
+Principio de autonomía
+Autorregulación personal sin interferencias
+Actuar intencionadamente y con conocimiento, sin influencias externas.
+Va de la mano con el respeto a la autonomía de los demás.
+
+Principio de beneficiencia
+Obligación moral de actuar en beneficio de otros
+Las acciones ajenas al principio de beneficiencia son censurables.
+Se respeta con un hacer
+
+Principio de no maleficia
+No causar daño
+Daño: alteraación psíquica o somática que inquiete la salud o integridad de quien la sufre
+Se respeta con un no hacer
+
+Criterio
+¿Cómo lo respeto?
+¿Cómo lo violo?
+¿Cómo se da el caso?
+
+Beneficiencia
+Haciendo, ayudando
+Tuve la oportunidad de ayudar y no ayudé
+Tuve la oportunidad de ayudar
+
+No maleficencia
+No haciendo, no causando daño
+Tuve la oportunidad de causar daño y causé daño
+Tuve la oportunidad de dañar o aprovechar
+
+# 2025-03-25
+Conflicto: Contraposición entre intereses humanos
+Conflicto ético: Se caracteriza por tener varias alternativas y que todas tienen consecuencias positivas y negativas a la vez. Kölhberg.
+
+Conflicto hipotético
+No es algo que nos suceda a nosotros, pero nos preguntamos que hariamos en esa situacion.
+¿Que harias en este caso?
+
+Conflicto real
+Es más cercano a la persona, es algo que realmente podría sucederle y reflexiona que haría
+
+Conflictos éticos
+Abiertos: No se ha adecuado, debe reflexionarse.
+Cerrado: Ya se actuí debe analizarse a la actuación.
+
+Conflicto completo e incompleto
+Completo: Se dan todas las consecuencias posibles.
+Incompleto: No son explícitas las consecuencias.
+
+
+# 2025-03-24
+Ejercicio en clase sobre conflictos
+
 # 2025-02-25
 Democracia: La opinión pública se impone.
 Formal: Requisitos - Significa que les interesa únicamente las mayorías
