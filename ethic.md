@@ -1,3 +1,21 @@
+# 2025-05-19
+
+¿Cómo saber si una máxima subjetiva de conducta es válida?
+
+Hay dos criterios
+
+- La no contradicción. Ej. Para Kant el suicidio es paradójico
+- Universabilidad, algo se va a hacer universable, tiene la posibildiad de escalar a nivel universal (Que todos lo apliquen). 
+- 
+- 
+- 
+- 
+
+# 2025-05-13
+
+# 2025-05-05
+Examen de Segundo Parcial
+
 # 2025-03-31
 Principios básicos de la Ética
 
@@ -15,7 +33,7 @@ Igualdad de oportunidades entre los diferentes sectores
 Guía las decisiones legislativas y políticas
 
 Justicia (Rawls) (No se estudiará)
-Todos los mismos DHs
+Todos los mismos Derechos Humanos
 Analizar si las letes son justas o autoridad es justa
 
 Justicia como principio
@@ -34,7 +52,7 @@ Se respeta con un hacer
 
 Principio de no maleficia
 No causar daño
-Daño: alteraación psíquica o somática que inquiete la salud o integridad de quien la sufre
+Daño: alteración psíquica o somática que inquiete la salud o integridad de quien la sufre
 Se respeta con un no hacer
 
 Criterio
@@ -65,7 +83,7 @@ Es más cercano a la persona, es algo que realmente podría sucederle y reflexio
 
 Conflictos éticos
 Abiertos: No se ha adecuado, debe reflexionarse.
-Cerrado: Ya se actuí debe analizarse a la actuación.
+Cerrado: Ya se actuó debe analizarse la actuación.
 
 Conflicto completo e incompleto
 Completo: Se dan todas las consecuencias posibles.
@@ -74,6 +92,9 @@ Incompleto: No son explícitas las consecuencias.
 
 # 2025-03-24
 Ejercicio en clase sobre conflictos
+
+# 2025-03-10
+Examen Primer parcial
 
 # 2025-02-25
 Democracia: La opinión pública se impone.
@@ -91,8 +112,6 @@ No habría democracia sin expresión.
 La libertad de cátedra es consecuencia de la de expresión.
 La libertad de cátedra es una forma de la libertad de expresión, aplica para el docente. Libertad de expresar el punto de vista, es beneficioso para la democracia, ya que no hay democracia sin varios puntos de vista.
 Por ende, sin acceso a la educación, lo anterior no podría pasar.
-
-
 
 # 2025-02-24
 
